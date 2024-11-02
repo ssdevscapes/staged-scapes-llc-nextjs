@@ -1119,36 +1119,36 @@ __metadata:
   linkType: hard
 
 "@wix/pricing-plans@npm:^1.0.17":
-  version: 1.0.93
-  resolution: "@wix/pricing-plans@npm:1.0.93"
+  version: 1.0.97
+  resolution: "@wix/pricing-plans@npm:1.0.97"
   dependencies:
-    "@wix/pricing-plans_orders": 1.0.39
-    "@wix/pricing-plans_plans": 1.0.42
-  checksum: 00c7e8c712384258b0cf10fcbbe5d4f9f38aec04783c4f7a439988f82996ebc09d894de209407b6682b3df150dccdc580d0981d5e51c55842fa53b59a5905a65
+    "@wix/pricing-plans_orders": 1.0.41
+    "@wix/pricing-plans_plans": 1.0.45
+  checksum: 1c48f0d12513e6a4460964bb7830eaef9bba056315be41ced5668c09b557d0d570319e640fd1edf4762a4960e19c098c97c35ad7e5dc80317079a39a8dd4f127
   languageName: node
   linkType: hard
 
-"@wix/pricing-plans_orders@npm:1.0.39":
-  version: 1.0.39
-  resolution: "@wix/pricing-plans_orders@npm:1.0.39"
+"@wix/pricing-plans_orders@npm:1.0.41":
+  version: 1.0.41
+  resolution: "@wix/pricing-plans_orders@npm:1.0.41"
   dependencies:
     "@wix/metro-runtime": ^1.1792.0
     "@wix/motion-edm-autogen-query-wrapper": ^1.0.37
     "@wix/sdk-runtime": ^0.3.14
-    "@wix/sdk-types": ^1.9.2
-  checksum: 2a66c4185e4f7821b42f53e9028a7cbd7a967f8c29d6aafd5e94d245c3a2f937dcf6c3fc9da7f327b86ebdeb4e748169414f459cda2a95068245ff17084a02c4
+    "@wix/sdk-types": ^1.12.3
+  checksum: a67a3272b56a228277256dc6a7cf35813bdc6040cbe28a0150cfffe5d3c7f5e9b4d1142c4b0419505c5dd718ce15edc2a4021fa4209efd9eb978ba7560acc563
   languageName: node
   linkType: hard
 
-"@wix/pricing-plans_plans@npm:1.0.42":
-  version: 1.0.42
-  resolution: "@wix/pricing-plans_plans@npm:1.0.42"
+"@wix/pricing-plans_plans@npm:1.0.45":
+  version: 1.0.45
+  resolution: "@wix/pricing-plans_plans@npm:1.0.45"
   dependencies:
     "@wix/metro-runtime": ^1.1792.0
     "@wix/motion-edm-autogen-query-wrapper": ^1.0.37
     "@wix/sdk-runtime": ^0.3.14
-    "@wix/sdk-types": ^1.9.2
-  checksum: b6c3a27d25f839fdc41e54a74bd4f2c4cab9e9ed3cf6715f766d84a4b0b1665545c6e1cfe5a5740a050fb7fb10b756b38753e3300cebb64b82757cdaec9c2653
+    "@wix/sdk-types": ^1.12.3
+  checksum: f19714fa53e9a4da2cc961e9ccc2370c9d0c6d48936b9490ff32d00e43e5c18d6ac045c010d5c6e457cab71e54506258f81778cd3c17029be76b1c137fc5edf0
   languageName: node
   linkType: hard
 
